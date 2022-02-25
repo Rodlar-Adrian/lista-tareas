@@ -1,0 +1,37 @@
+body{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    background-color: antiquewhite;
+    margin-top: 250px;
+}
+
+
+body #div1 #input1{
+place-items: center;
+place-content: center;
+}
+
+
+
+body p{
+
+    font-size: 50px;
+}
+
+
+
+
+
+body #div3 #lista{
+color: rgb(24, 21, 21);
+
+
+}
+
+
+body #div3 #lista li{
+
+list-style: none;
+margin-left: -40px;
+}
